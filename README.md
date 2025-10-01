@@ -1,2 +1,2 @@
 # Namanya-Precious
-Matlab group c
+Matlab group 6
